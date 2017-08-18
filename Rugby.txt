@@ -1,0 +1,14 @@
+1234 Rory     Best    35 180 105 Ulster   rory@ulster.com      2 2 3
+1345 Tommy    Bowe    33 191 106 Ulster   tommy@ulster.com     7 3 1
+1456 Jamie    Heaslip 34 193 109 Leinster jamie@leinster.com   4 2 3
+1567 Keith    Earls   30 178  90 Munster  keith@munster.com    7 1 2
+1678 Rob      Kearney 31 185  90 Leinster rob@leinster.com     7 3 4
+1789 Cian     Healy   30 185 110 Leinster cian@leinster.com    1 4 2
+2123 Johnny   Sexton  32 188  92 Leinster johnny@leinster.com  5 1 2
+2234 Conor    Murray  28 188  94 Munster  conor@munster.com    5 2 2
+2345 Donnacha Ryan    34 198 114 Munster  donnacha@munster.com 3 3 3
+2456 Simon    Zebo    27 188  98 Munster  simon@munster.com    7 4 4
+2567 CJ       Stander 27 185 114 Munster  cj@munster.com       4 1 3
+2678 Sean     O'Brien 30 188 108 Leinster sean@leinster.com    4 4 4
+2789 Devin    Toner   31 211 120 Leinster devon@leinster.com   3 3 3
+
